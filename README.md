@@ -1,9 +1,9 @@
 # COGIP
 ###### Vive la COGIP
 
-[demo](https://cogipdery.000webhostapp.com/cogip/)
+[demo](https://cogipdery.000webhostapp.com/cogip/)  
 Identifiants pour démo:  
-user:JC
+user:JC  
 password: Ranu
 
 Cogip Application Project at [BeCode](https://becode.org)
