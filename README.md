@@ -20,14 +20,13 @@ It can manage contacts, clients, providers, invoices and users.
 ## Informations
 
 All tables have a search option and pagination.  
-The preview server is hosted on **Online.net** and fully configured using **Docker**.
-The database is hosted on **AWS RDS** and filed with dummy data (100+ contacts,companies and invoices).  
+The database is filed with dummy data (100+ contacts,companies and invoices).  
 Backup of the DB is in the backup folder
 
 ### Technologies used:
 
 - PHP
-- MySQL (MariaDB on AWS EDS)
+- MySQL (MariaDB)
 - Javascript
 - [JQuery](https://jquery.com)
 - [MDBootstrap](https://mdbootstrap.com/) (free version)
@@ -43,7 +42,6 @@ Backup of the DB is in the backup folder
 
 ### Home Page:
 
-- Alert on top of the page greating the user with a speacial joke (different every time).
 - direct link to providers/clients
 - button to easy add an invoice, company or client.
 - quick view of last 5 invoices,companies and clients
