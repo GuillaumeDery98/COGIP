@@ -1,8 +1,8 @@
 # COGIP
 ###### Vive la COGIP
 
-[demo](https://cogipdery.000webhostapp.com/cogip/)  
-Identifiants pour démo:  
+[Demo website](https://cogipdery.000webhostapp.com/cogip/)  
+Credential for demo:  
 user: JC  
 password: Ranu
 
